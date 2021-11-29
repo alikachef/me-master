@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Software</h3>
-                    <p>Unity, Photoshop, Illustrator, Ofiice(word, excal, accsess, powerpoint)</p>
+                    <p>Unity, Photoshop, Illustrator, Office(word, excal, accsess, powerpoint)</p>
                 </div>
                 </div>
             </div>
